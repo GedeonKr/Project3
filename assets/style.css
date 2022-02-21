@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    background-image: url(../pictures/back.jpg);
+    background-size: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+.kiskep{
+    height: 70%;
+    width: 50%;
+}
+
+.footer{
+    background-color: gray;
+    width: 100%;
+}
+
+.backcolor{
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+}
+
+h6{
+    color: yellow;
+    text-align: center;
+}
