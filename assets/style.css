@@ -9,8 +9,9 @@ img{
 }
 
 .kiskep{
-    height: 70%;
-    width: 50%;
+    height: 75%;
+    width: 100%;
+    margin-bottom: 15%;
 }
 
 .footer{
@@ -20,11 +21,37 @@ img{
 
 .backcolor{
     background-color: white;
-    margin: auto;
     margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3%;
 }
 
 h6{
     color: yellow;
     text-align: center;
+}
+
+.jobb{
+    float: left;
+}
+
+.bal{
+    float: right;
+}
+
+.cim{
+    padding-left: 10px;
+    font-size: small;
+}
+
+strong{
+    font-size: 130%;
+    text-decoration: underline;
+}
+
+.szoveg{
+    font-size: 110%;
+    padding-bottom: 4%;
 }
